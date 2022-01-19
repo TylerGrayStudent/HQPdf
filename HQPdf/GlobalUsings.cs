@@ -1,0 +1,13 @@
+﻿global using System.Dynamic;
+global using System.Text.RegularExpressions;
+global using HQPdf.Models;
+global using HQPdf.Models.Enums;
+global using HQPdf.Models.Trojan;
+global using Newtonsoft.Json;
+global using Newtonsoft.Json.Linq;
+global using Telerik.Windows.Documents.Fixed.FormatProviders.Pdf;
+global using Telerik.Windows.Documents.Fixed.Model;
+global using Telerik.Windows.Documents.Fixed.Model.Fonts;
+global using Telerik.Windows.Documents.Fixed.Model.InteractiveForms;
+global using Telerik.Windows.Documents.Fixed.Model.Objects;
+global using Telerik.Windows.Documents.Fixed.Model.Resources;
